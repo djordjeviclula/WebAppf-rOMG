@@ -112,4 +112,4 @@ st.divider()
 st.subheader("🚀 Kontinuierliches Lernen")
 
 st.write(
-    "Dieses Projekt ist nur der Anfang. Ich bin fest entschlossen, mich kontinuierlich weiter
+    "Dieses Projekt ist nur der Anfang. Ich bin fest entschlossen, mich kontinuierlich weiter)
