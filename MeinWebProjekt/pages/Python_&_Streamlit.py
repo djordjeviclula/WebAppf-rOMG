@@ -1,9 +1,9 @@
 import streamlit as st
 
-# Konfi
+# Konfiguration der Seite
 st.set_page_config(page_title="🐍 Python & Streamlit", page_icon="🐍")
 
-# Lineal Verlauf
+# Sidebar Design und Farbverlauf
 st.markdown(
     """
     <style>
@@ -19,10 +19,10 @@ st.markdown(
     unsafe_allow_html=True
 )
 
-# Titel von Seite
+# Titel der Seite
 st.title("🐍 Python & Streamlit – Meine erste Web-App")
 
-# einleitung
+# Einleitung
 st.markdown(
     """
     <div style="font-size:18px; font-weight:bold;">
@@ -54,11 +54,13 @@ st.markdown(
 
 st.divider()
 
+# Beschreibender Text
 st.write("Auch wenn das Projekt klein erscheint, habe ich **sehr viel gelernt** "
          "und bin stolz darauf, es mit euch teilen zu können!")
 
 st.divider()
 
+# Unterüberschrift
 st.subheader("🚀 Mein Weg zum Projekt")
 
 st.write("Am Anfang hatte ich die Idee, eine **GUI als One-Pager mit Tkinter** zu bauen – "
@@ -78,6 +80,7 @@ st.markdown("""
 
 st.divider()
 
+# Unterüberschrift zu Herausforderungen und Durchbrüchen
 st.subheader("⚡ Herausforderungen und Durchbrüche")
 
 st.write("Ich habe wirklich **Tag und Nacht** an diesem Code gesessen. "
@@ -88,7 +91,7 @@ st.write("Doch **aufgeben kam nicht in Frage**. Ich habe mich durchgebissen, gel
 
 st.divider()
 
-
+# Abschlusszitat
 st.markdown(
     """
     <div style="
@@ -108,8 +111,9 @@ st.markdown(
 
 st.divider()
 
-# ende
+# Ende - Kontinuierliches Lernen
 st.subheader("🚀 Kontinuierliches Lernen")
 
 st.write(
-    "Dieses Projekt ist nur der Anfang. Ich bin fest entschlossen, mich kontinuierlich weiter)
+    "Dieses Projekt ist nur der Anfang. Ich bin fest entschlossen, mich kontinuierlich weiter zu entwickeln und mich bald auch mit **Django** oder anderen fortgeschrittenen Tools auseinanderzusetzen. Ich glaube, dass ich dadurch meine Fähigkeiten noch weiter ausbauen kann."
+)
