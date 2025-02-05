@@ -23,7 +23,7 @@ st.title("📄 Bewerbungsunterlagen")
 st.write("Hier findest du meine Bewerbungsunterlagen als PDF.")
 
 # Anschreiben und Lebenslauf Links
-st.markdown("[📜 Anschreiben](https://f6c82f18-3090-44ca-b3bd-b4593bb23558.filesusr.com/ugd/48e2f2_ce08d2bb32a54412bce358fe34806b38.pdf)")
+st.markdown("[📜 Anschreiben](https://f6c82f18-3090-44ca-b3bd-b4593bb23558.filesusr.com/ugd/48e2f2_faa9926d93864cf5a55f55126daa87f0.pdf)")
 st.markdown("[📄 Lebenslauf](https://f6c82f18-3090-44ca-b3bd-b4593bb23558.filesusr.com/ugd/48e2f2_ef48180d28274fcaad6ee27d627ec440.pdf)")
 
 # Zeugnisse - Mehrere PDFs
