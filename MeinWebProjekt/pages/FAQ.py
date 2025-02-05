@@ -2,7 +2,7 @@ import streamlit as st
 
 st.set_page_config(page_title="❓ Fragen & Antworten", page_icon="❓")
 
-# Einheitliches Sidebar-Design
+# lineal Verlauf
 st.markdown(
     """
     <style>

@@ -1,9 +1,9 @@
 import streamlit as st
 
-# Seitenkonfiguration mit Icon und Titel
+# Titel
 st.set_page_config(page_title="🌍 UI Design & Blender", page_icon="🌍")
 
-# Einheitliches Sidebar-Design mit Farbverlauf und schwarzer Schrift
+# lieneal Verlauf
 st.markdown(
     """
     <style>
@@ -19,7 +19,7 @@ st.markdown(
     unsafe_allow_html=True
 )
 
-# Seitentitel
+# Titel
 st.title("🌍 UI Design & Blender")
 
 st.divider()
@@ -29,7 +29,7 @@ st.markdown("[➡️ Hier geht's zur Forest and Frame Website](https://www.fores
 st.write("Diese Website habe ich in den letzten 12 Monaten in meiner Freizeit erstellt.")
 st.write("Alle Bilder wurden mit **Blender** erstellt – ohne Vorkenntnisse!")
 
-# Bild hinzufügen
+# Bild
 st.image("https://static.wixstatic.com/media/48e2f2_8b51a14f25b94daea3e696ffbd1c299a~mv2.jpg/v1/fill/w_1200,h_342,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/48e2f2_8b51a14f25b94daea3e696ffbd1c299a~mv2.jpg",
          caption="Finales Rendering", use_container_width=True)
 
@@ -45,7 +45,7 @@ st.write(
     "Dennoch war es ein völlig neuer Bereich für mich, da ich mich noch nie mit fotorealistischen Renderings auseinandergesetzt hatte."
 )
 
-# Bild hinzufügen
+# Bild
 st.image("https://static.wixstatic.com/media/48e2f2_914116ac05d34acabff09c9df5ab6035~mv2.png",
          caption="Mein erstes 3D-Konzept", use_container_width=True)
 
@@ -66,7 +66,7 @@ st.subheader("📌 Finales Rendering")
 
 st.write("Es hat **ca. 4 Monate** gedauert, bis ich das nötige Skillset aufgebaut hatte, um hochqualitative Renderings zu erstellen.")
 
-# Bild hinzufügen
+# Bild
 st.image("https://static.wixstatic.com/media/48e2f2_f1260fcdaa1f44d1b6669978160bcf83~mv2.jpeg",
          caption="Finales Rendering", use_container_width=True)
 
@@ -114,7 +114,7 @@ st.write(
 
 st.divider()
 
-# Abschluss
+# ende
 st.write(
     "### **Zusammenfassung:**\n"
     "✅ Von **Null Erfahrung mit Blender** bis hin zu fotorealistischen Renderings.\n"

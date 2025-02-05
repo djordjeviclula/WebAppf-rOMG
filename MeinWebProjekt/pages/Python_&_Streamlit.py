@@ -1,9 +1,9 @@
 import streamlit as st
 
-# Seiten-Konfiguration
+# Konfi
 st.set_page_config(page_title="🐍 Python & Streamlit", page_icon="🐍")
 
-# Einheitliches Sidebar-Design mit Farbverlauf
+# Lineal Verlauf
 st.markdown(
     """
     <style>
@@ -19,10 +19,10 @@ st.markdown(
     unsafe_allow_html=True
 )
 
-# Titel der Seite
+# Titel von Seite
 st.title("🐍 Python & Streamlit – Meine erste Web-App")
 
-# Fett formatierter Einleitungstext
+# einleitung
 st.markdown(
     """
     <div style="font-size:18px; font-weight:bold;">
@@ -36,7 +36,7 @@ st.markdown(
 
 st.divider()
 
-# Notion-ähnliches Zitat mit dunklem Blau (#133A4E)
+# Zitate
 st.markdown(
     """
     <div style="
@@ -88,7 +88,7 @@ st.write("Doch **aufgeben kam nicht in Frage**. Ich habe mich durchgebissen, gel
 
 st.divider()
 
-# Verbesserte Darstellung des letzten Abschnitts (ohne Sternchen)
+
 st.markdown(
     """
     <div style="
@@ -108,3 +108,8 @@ st.markdown(
 
 st.divider()
 
+# ende
+st.subheader("🚀 Kontinuierliches Lernen")
+
+st.write(
+    "Dieses Projekt ist nur der Anfang. Ich bin fest entschlossen, mich kontinuierlich weiter

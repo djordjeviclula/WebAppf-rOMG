@@ -1,9 +1,9 @@
 import streamlit as st
 
-# Seiten-Konfiguration
+# Konfi
 st.set_page_config(page_title="👋 Willkommen", page_icon="👋")
 
-# 🎨 Einheitliches Sidebar-Design mit Farbverlauf und dunkler Schrift
+# Verlauf und Farbe
 st.markdown(
     """
     <style>
@@ -19,7 +19,7 @@ st.markdown(
     unsafe_allow_html=True
 )
 
-# 🎉 Hauptinhalt der Seite
+# Anfang
 st.title("👋 Hey, schön, dass du hier bist!")
 
 st.divider()
@@ -43,14 +43,14 @@ if st.button("➡️ mehr erfahren", use_container_width=True, key="blender"):
 
 st.divider()
 
-# ❓ Fragen & Antworten (FAQ)
+# ❓ F&As
 st.subheader("❓ Fragen & Antworten")
 if st.button("➡️ mehr erfahren", use_container_width=True, key="faq"):
     st.switch_page("pages/FAQ.py")
 
 st.divider()
 
-# 📄 Bewerbungsunterlagen
+# 📄 Bewerbungs datein
 st.subheader("📄 Bewerbungsunterlagen")
 if st.button("➡️ mehr erfahren", use_container_width=True, key="bewerbung"):
     st.switch_page("pages/Bewerbung.py")
