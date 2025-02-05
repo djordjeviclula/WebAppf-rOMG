@@ -1,0 +1,1 @@
+pip instsall streamlit
