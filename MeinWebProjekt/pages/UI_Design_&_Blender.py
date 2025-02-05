@@ -29,6 +29,10 @@ st.markdown("[➡️ Hier geht's zur Forest and Frame Website](https://www.fores
 st.write("Diese Website habe ich in den letzten 12 Monaten in meiner Freizeit erstellt.")
 st.write("Alle Bilder wurden mit **Blender** erstellt – ohne Vorkenntnisse!")
 
+# Bild hinzufügen
+st.image("https://static.wixstatic.com/media/48e2f2_8b51a14f25b94daea3e696ffbd1c299a~mv2.jpg/v1/fill/w_1200,h_342,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/48e2f2_8b51a14f25b94daea3e696ffbd1c299a~mv2.jpg",
+         caption="Finales Rendering", use_container_width=True)
+
 st.divider()
 
 # 📌 Renderings und Blender

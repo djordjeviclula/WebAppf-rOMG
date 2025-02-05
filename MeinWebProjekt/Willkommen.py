@@ -3,7 +3,7 @@ import streamlit as st
 # Seiten-Konfiguration
 st.set_page_config(page_title="👋 Willkommen", page_icon="👋")
 
-# Sidebar-Hintergrund mit Farbverlauf + schwarze Schrift
+# 🎨 Einheitliches Sidebar-Design mit Farbverlauf und dunkler Schrift
 st.markdown(
     """
     <style>
@@ -19,18 +19,20 @@ st.markdown(
     unsafe_allow_html=True
 )
 
-# Begrüßungstext
+# 🎉 Hauptinhalt der Seite
 st.title("👋 Hey, schön, dass du hier bist!")
 
 st.divider()
 
-st.write("Liebes peopleware Team, hier habe ich dir ein paar Dinge vorbereitet.")
+st.write("Liebes Peopleware-Team, hier habe ich euch ein paar Dinge vorbereitet.")
 st.write(
-    "Ich hoffe, dir gefällt es, und ich kann dir meinen Ehrgeiz und meine Motivation zeigen, "
-    "neue Dinge zu lernen und meine Begeisterung für IT und Software demonstrieren.")
+    "Ich hoffe, euch gefällt es, und ich kann damit zeigen, wie viel Spaß ich am Lernen habe. "
+    "Gleichzeitig möchte ich meine Begeisterung für IT, Software und digitale Prozesse mit euch teilen!"
+)
 
 st.divider()
-st. write("Diese gesamte Webiste habe ich mit Python und Streamlit erstellt. Weiter unten kannst du mehr dazu erfahren.")
+st.write(
+    "Diese gesamte Web-App habe ich mit **Python & Streamlit** erstellt. Weiter unten könnt ihr mehr dazu erfahren.")
 
 st.divider()
 
