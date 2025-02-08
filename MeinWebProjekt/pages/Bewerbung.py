@@ -29,11 +29,12 @@ st.markdown("[📄 Lebenslauf](https://f6c82f18-3090-44ca-b3bd-b4593bb23558.file
 # Zeugnisse
 st.subheader("🎓 Zeugnisse")
 
-# Links von Zeu.
+# Links von Zeugnissen und Auszeichnungen in einem Dictionary
 pdf_files = {
-    "Zeugnis Übersicht": "https://f6c82f18-3090-44ca-b3bd-b4593bb23558.filesusr.com/ugd/48e2f2_98a270e662cd4e51bbc152c4f3139b7a.pdf"
-   }
+    "Zeugnis Übersicht": "https://f6c82f18-3090-44ca-b3bd-b4593bb23558.filesusr.com/ugd/48e2f2_98a270e662cd4e51bbc152c4f3139b7a.pdf",
+    "Auszeichnungen Übersicht": "https://f6c82f18-3090-44ca-b3bd-b4593bb23558.filesusr.com/ugd/48e2f2_f6ea8a34ee054ef7b04b22ebb764c8a0.pdf"
+}
 
-# alles als link darstellen
+# alles als Link darstellen
 for title, pdf_link in pdf_files.items():
     st.markdown(f"[{title}]({pdf_link})")
