@@ -31,7 +31,7 @@ st.markdown(
     unsafe_allow_html=True
 )
 
-# Logo einfügen
+# Logo
 st.sidebar.markdown(
     """
     <div class="logo-container">
