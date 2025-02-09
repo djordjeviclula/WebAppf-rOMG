@@ -41,10 +41,12 @@ fragen_antworten = {
     "Wie kamst du dazu, programmieren zu wollen?": "Ich habe nach der Einführung der Kurzbefehle für Mac angefangen, kreative Workflows zu bauen. "
                                                    "Das fand ich so spannend, dass ich mehr darüber lernen wollte – und so bin ich über Recherchen auf die CS50-Kurse gestoßen. "
                                                    "Seitdem hat mich das Programmieren nicht mehr losgelassen!",
-    "Warum Peopleware?": "Während meiner Zeit bei BIRDIE & Co. habe ich intensiv mit Notion und Apicbase gearbeitet, um Arbeitsprozesse zu optimieren. "
-                         "Dabei habe ich gemerkt, dass diese Tools nicht alle meine Anforderungen abdecken. Ich sehe bei Peopleware die Möglichkeit, "
-                         "meine Erfahrung in der Prozessoptimierung einzubringen und meine Programmierkenntnisse weiter zu vertiefen, um maßgeschneiderte Lösungen zu entwickeln.",
-    "Wo siehst du dich in fünf Jahren?": "Als fester Bestandteil der Peopleware-Gruppe, in einem kreativen Team, das Innovationen vorantreibt.",
+    "Warum X-Cell?": "X-CELL vereint genau die Aspekte, die mich an IT und Softwareentwicklung faszinieren: Innovative E-Learning-Software, moderne Technologien und praxisnahe digitale Lösungen. Besonders "
+                     "spannend finde ich, dass X-CELL nicht nur Software entwickelt, sondern auch Lerninhalte aufbereitet, die Unternehmen weltweit bei der Wissensvermittlung unterstützen."
+                     "Während meiner Zeit bei BIRDIE & Co. war ich aktiv an der Einführung neuer Softwarelösungen beteiligt und habe Mitarbeiterschulungen organisiert. Dabei habe ich erlebt, wie wichtig es "
+                     "ist, Schulungsinhalte so aufzubereiten, dass sie leicht verständlich und direkt umsetzbar sind. Diese Erfahrung hat mir gezeigt, welchen Mehrwert gezielte Schulungen für Unternehmen bringen "
+                     "können – sowohl für die Mitarbeitenden als auch für die Prozesse.Bei X-CELL sehe ich die großartige Möglichkeit, an genau solchen innovativen Lösungen mitzuwirken und gleichzeitig den Bildungsbereich nachhaltig zu verbessern.",
+    "Wo siehst du dich in fünf Jahren?": "Als fester Bestandteil von X-Cell, in einem kreativen Team, das Innovationen vorantreibt.",
     "Welches ist dein Lieblingsbuch?": "Neben meinem All-Time-Favorite **Harry Potter und der Gefangene von Askaban** lese ich gerade "
                                        "**Die Abenteuer des Sherlock Holmes** von Arthur Conan Doyle. Es ist faszinierend, wie Holmes seine Fälle löst, "
                                        "und gleichzeitig ein spannender Einblick in eine vergangene Zeit.",
